@@ -2,15 +2,11 @@
 ## Date:24/09/2025
 
 ## AIM:
- To design a website to calculate the power of a lamp filament in an incandescent bulb in the server side. 
+ To design a website to calculate the body mass index in the server side. 
 
 
 ## FORMULA:
-P = I<sup>2</sup>R
-<br> P --> Power (in watts)
-<br> I --> Intensity
-<br> R --> Resistance
-
+BMI-weight/(height*height)
 ## DESIGN STEPS:
 
 ### Step 1:
